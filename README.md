@@ -1,2 +1,2 @@
-# m-lapse
-easy to use map app to display growing data
+# m-lapse-webp
+easy to use map webapp to display growing data
